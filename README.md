@@ -7,7 +7,6 @@ Im fullstack web devloper
 * 🌍  I'm based in new delhi india
 * 🖥️  See my portfolio at [Portfolio](http://localhost:3000)
 * ✉️  You can contact me at [suraj222615@gmail.com](mailto:suraj222615@gmail.com)
-* 🚀  I'm currently working on [Tong Chats](http://github.com/suraj-o/tong-chats)
 * 🧠  I'm learning Rust & Python
 * 🤝  I'm open to collaborating on web apps
 
