@@ -7,6 +7,7 @@ Software engineer with **1.5 years** of experience building and shipping full-st
 - 📍 Based in New Delhi, India
 - 💼 Junior Software Developer @ [Primafelicitas](https://www.primafelicitas.com/)
 - 🌐 Portfolio: _coming soon_
+- 📄 [Resume](https://drive.google.com/file/d/10KIyzGrpEbBtTOgKbuHjTQh84HI84sWv/view?usp=drivesdk)
 - 📧 [suraj222615@gmail.com](mailto:suraj222615@gmail.com)
 - 🤝 Open to collaborating on full-stack & AI-integrated web apps
 - 🦀 Currently deepening: **Rust** & **Python**
