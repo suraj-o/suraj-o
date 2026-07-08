@@ -60,7 +60,7 @@ Software engineer with **1.5 years** of experience building and shipping full-st
 
 ## 💼 Experience
 
-### Junior Software Developer — Primafelicitas *(Feb 2025 – Present)*
+### Junior Software Developer — Primafelicitas *(Feb 2025 – July 2026)*
 > Noida, Uttar Pradesh
 
 - End-to-end delivery across multiple client projects — from requirements to deployment, independently
