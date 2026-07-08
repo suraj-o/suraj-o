@@ -5,7 +5,7 @@
 Software engineer with **1.5 years** of experience building and shipping full-stack applications from API design to cloud deployment. Skilled in **Node.js, React, and AWS**, with hands-on experience working with AI agents to deliver projects faster and keep codebases stable. I take ownership, hit deadlines, and get things done end-to-end.
 
 - 📍 Based in New Delhi, India
-- 💼 Junior Software Developer @ [Primafelicitas](https://www.primafelicitas.com/)
+- 💼 EX Junior Software Developer @ [Primafelicitas](https://www.primafelicitas.com/)
 - 🌐 [Portfolio](https://5a5f1ee4.portfolio-suraj-etw.pages.dev/)
 - 📄 [Resume](https://drive.google.com/file/d/10KIyzGrpEbBtTOgKbuHjTQh84HI84sWv/view?usp=drivesdk)
 - 📧 [suraj222615@gmail.com](mailto:suraj222615@gmail.com)
